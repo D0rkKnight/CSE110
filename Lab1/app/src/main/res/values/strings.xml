@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name">lab1</string>
+    <string name="welcome_label">Welcome To</string>
+    <string name="cse_label">CSE 110</string>
+    <string name="se_label">Software Engineering</string>
+    <string name="winter_label">Winter 2023</string>
+    <string name="name_label">Hanzen Shou</string>
+    <string name="show_btn">Show My Name</string>
+    <string name="hide_btn">Hide My Name</string>
 </resources>
