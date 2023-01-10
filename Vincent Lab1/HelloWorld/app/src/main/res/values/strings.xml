@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="course_code">CSE 110</string>
+    <string name="welcome">Welcome to</string>
+    <string name="qtr">Winter 2023</string>
+    <string name="swe">Software Engineering</string>
+    <string name="name">Vincent Zhang</string>
+    <string name="show_name">Show my name</string>
+    <string name="hide_name">Hide my name</string>
+</resources>
