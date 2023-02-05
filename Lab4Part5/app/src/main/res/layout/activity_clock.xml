@@ -24,7 +24,7 @@
             android:id="@+id/ticks"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/Picture1"
+            app:srcCompat="@drawable/picture1"
             tools:layout_editor_absoluteX="50dp"
             tools:layout_editor_absoluteY="50dp" />
 
@@ -35,7 +35,7 @@
             app:layout_constraintCircle="@+id/clock"
             app:layout_constraintCircleAngle="210"
             app:layout_constraintCircleRadius="140dp"
-            app:srcCompat="@drawable/Picture2"
+            app:srcCompat="@drawable/picture2"
             tools:layout_editor_absoluteX="134dp"
             tools:layout_editor_absoluteY="292dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
