@@ -17,7 +17,7 @@ import java.util.Collections;
 import java.util.List;
 import java.lang.reflect.Type;
 
-@Entity(tableName = "todo_list_item")
+@Entity(tableName = "todo_list_items")
 public class TodoListItem {
     // 1. Public fields
     @PrimaryKey(autoGenerate = true)
