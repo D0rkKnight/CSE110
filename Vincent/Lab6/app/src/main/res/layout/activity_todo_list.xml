@@ -12,4 +12,27 @@
         android:layout_height="729dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp" />
+
+    <EditText
+        android:id="@+id/new_todo_text"
+        android:layout_width="270dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        android:gravity="center|left"
+        android:hint="Enter a todo here..."
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/add_todo_button"
+        android:layout_width="97dp"
+        android:layout_height="48dp"
+        android:layout_marginBottom="16dp"
+        android:text="Add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toEndOf="@+id/new_todo_text" />
 </androidx.constraintlayout.widget.ConstraintLayout>
